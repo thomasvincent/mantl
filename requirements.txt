@@ -6,3 +6,4 @@ PyYAML==3.11
 Sphinx==1.2.3
 ansible-lint>=2.2.0
 netaddr>=0.7,<0.8
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
